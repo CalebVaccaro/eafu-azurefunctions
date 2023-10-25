@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "EAFU_CONNECTION_STRING": "YOUR-CONNECTION-STRING",
+    "EAFU_PLAYER_TABLE": "YOUR-PLAYER-TABLE"
+  }
+}

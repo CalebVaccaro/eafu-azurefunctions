@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "eafu_azurefunctions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7126",
+      "launchBrowser": false
+    }
+  }
+}
