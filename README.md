@@ -1,9 +1,9 @@
 # EAFU Azure Functions Project
 
 ## Overview
-This project consists of Azure Functions designed to manage player data and provide a leaderboard functionality for a gaming application. It is split into multiple functions, each responsible for a specific aspect of the application. This project is designed to work in tandem with the [Easy Azure Functions for Unity (EAFU)](https://github.com/CalebVaccaro/EAFU), providing a seamless backend solution for Unity applications. 
+The project is open-source to facilitate developers in understanding and developing Azure Functions locally. It contains Azure Functions designed to manage player data and provide a leaderboard functionality for a gaming application. It is split into multiple functions, each responsible for a specific aspect of the application. 
 
-The project is open-source to facilitate developers in understanding and developing Azure Functions locally.
+This project is designed to work in tandem with the [Easy Azure Functions for Unity (EAFU)](https://github.com/CalebVaccaro/EAFU).
 
 ## Structure
 The project is divided into four main parts:
